@@ -1,0 +1,169 @@
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:06:16 CST] "GET /api/v1/book/titles?kind_id=1 HTTP/1.1 200 2.520335ms "curl/8.2.1" "
+127.0.0.1 - [Sun, 29 Oct 2023 17:07:13 CST] "GET /api/v1/book/titles?kind_id=2 HTTP/1.1 200 2.202999ms "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:07:45 CST] "GET /api/v1/book/titles?kind_id=2 HTTP/1.1 500 3.389267ms "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:10:11 CST] "GET /api/v1/book/titles?kind_id=2 HTTP/1.1 500 4.068909ms "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:13:38 CST] "GET /api/v1/book/titles?kind_id=2 HTTP/1.1 200 2.631809ms "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:14:06 CST] "GET /api/v1/book/titles?kind_id=2 HTTP/1.1 200 2.4588ms "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:15:07 CST] "GET /api/v1/book/titles?kind_id=2 HTTP/1.1 200 2.867502ms "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:16:00 CST] "GET /api/v1/book/titles?kind_id=2 HTTP/1.1 200 2.80822ms "curl/8.2.1" "
+127.0.0.1 - [Sun, 29 Oct 2023 17:16:07 CST] "GET /api/v1/book/titles?kind_id=1 HTTP/1.1 200 2.845309ms "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:17:53 CST] "GET /api/v1/book/titles?kind_id=1 HTTP/1.1 200 2.372796ms "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:21:41 CST] "GET /api/v1/book/titles?kind_id=1 HTTP/1.1 500 470.709µs "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:22:24 CST] "GET /api/v1/book/titles?kind_id=1 HTTP/1.1 500 560.601µs "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:23:08 CST] "GET /api/v1/book/titles?kind_id=1 HTTP/1.1 500 561.6µs "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:23:35 CST] "GET /api/v1/book/titles?id=1 HTTP/1.1 500 428.401µs "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] [ERROR] listen tcp :8080: bind: address already in use
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:26:02 CST] "GET /api/v1/book/titles?id=1 HTTP/1.1 500 405.3µs "curl/8.2.1" "
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /healthz                  --> github.com/sjjwantfish/zxcs_db_go/router.Load.func4 (4 handlers)
+[GIN-debug] GET    /_count                   --> github.com/sjjwantfish/zxcs_db_go/router.Load.func5 (4 handlers)
+[GIN-debug] GET    /api/v1/book/titles       --> github.com/sjjwantfish/zxcs_db_go/handler/api.GetBookTitleByKindID (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Sun, 29 Oct 2023 17:29:16 CST] "GET /api/v1/book/titles?id=1 HTTP/1.1 200 2.351429ms "curl/8.2.1" "
+127.0.0.1 - [Sun, 29 Oct 2023 17:29:28 CST] "GET /api/v1/book/titles?kind_id=1 HTTP/1.1 200 2.61048ms "curl/8.2.1" "
+127.0.0.1 - [Sun, 29 Oct 2023 17:29:32 CST] "GET /api/v1/book/titles?kind_id=2 HTTP/1.1 200 2.447781ms "curl/8.2.1" "

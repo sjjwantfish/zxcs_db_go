@@ -1,0 +1,8 @@
+name: zxcs_db_go
+run_mode: debug
+addr: :8080
+db:
+  addr: 127.0.0.1:3306
+  user: root
+  password: '111111'
+  name: zxcs_db
